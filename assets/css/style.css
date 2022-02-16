@@ -346,7 +346,7 @@ section {
     width: 100%;
     margin-bottom: 15px;
     margin-top: 5px;
-    
+    background-color: rgba(255,255,255, 0.75);
 }
 
 .contact-form input:focus, .contact-form textarea:focus {
